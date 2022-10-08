@@ -9,7 +9,7 @@ site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project
 # Repository
-repo_name: practice
+repo_name: Go To Repository
 repo_url: https://gk0209.github.io/practice
 edit_uri: ""
 
@@ -20,6 +20,8 @@ extra_css:
 # Configuration
 theme:
     name: material
+    icon: 
+        repo: fontawesome/brands/github
         # Default values, taken from mkdocs_theme.yml
     language: en
     features:
@@ -40,13 +42,13 @@ theme:
         - toc.follow
     palette:
         - scheme: default
-          primary: indigo
+          primary: cyan
           accent: indigo
           toggle:
               icon: material/brightness-7
               name: Switch to dark mode
         - scheme: slate
-          primary: indigo
+          primary: orange
           accent: indigo
           toggle:
               icon: material/brightness-4

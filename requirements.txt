@@ -13,4 +13,10 @@ mkdocs-table-reader-plugin
 mkdocs-charts-plugin
 mkdocs-drawio-exporter
 mkdocs-tooltips
-   
+jinja2>=3.0.2
+markdown>=3.2
+mkdocs-material-extensions>=1.0.3
+pymdown-extensions>=9.4
+
+# Requirements for plugins
+requests>=2.26

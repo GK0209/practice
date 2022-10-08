@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to my practice page
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -15,3 +15,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Page layout
+
+    girish.csv      # The excel file to refer
+    docs/
+        main.md     # The main page
+        ...         # Other markdown pages, images and other files.

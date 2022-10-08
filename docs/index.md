@@ -22,3 +22,15 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         main.md     # The main page
         ...         # Other markdown pages, images and other files.
+
+| Method      | Description                          |
+| :---------- | :----------------------------------- |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+!!! note 
+    Admonition without text in the header 
+
+!!! important
+    If you get a loan at a bank, you will be paying for it 30 years. If you rob a bank you will be out in just 10.

@@ -1,0 +1,16 @@
+mkdocs==1.3.1
+mkdocs-material==8.4.2
+mkdocstrings
+mkdocs-autorefs
+mkdocs-mermaid2-plugin
+mkdocs-macros-plugin
+mkdocs-jupyter
+mknotebooks
+Pygments
+mkdocs-with-pdf
+mkdocs-img2fig-plugin
+mkdocs-table-reader-plugin
+mkdocs-charts-plugin
+mkdocs-drawio-exporter
+mkdocs-tooltips
+   

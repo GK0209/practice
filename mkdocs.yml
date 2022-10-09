@@ -110,6 +110,7 @@ markdown_extensions:
         custom_checkbox: true
 
 nav:
+    - Home: index.md
     - Fundamentals: fundamental/fundamental.md
     - Lab Exercise: lab/exercise.md
 
